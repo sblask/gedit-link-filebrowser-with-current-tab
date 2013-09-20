@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python
+Module=lfwct
+IAge=3
+Name=Link filebrowser with current tab
+Description=Sets the directory containing the file of the currently active tab as root in the filebrowser
+Authors=Sebastian Blask
+Copyright=Copyright © 2013 Sebastian Blask
+Website=https://github.com/sblask/gedit-link-filebrowser-with-current-tab
+Version=0.0.1
+
